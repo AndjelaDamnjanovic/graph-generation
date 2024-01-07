@@ -1,0 +1,13 @@
+Population size: 100
+Desired properties:
+	Num of nodes: 6
+	Average degree: 2
+	Transitivity: 0.5
+	Clustering coefficient: 0.87
+	Num of connected components: 2
+Results:
+	Node degrees: [(0, 3), (1, 2), (2, 2), (3, 5), (4, 2), (5, 2)]
+	Average clustering coefficient: 0.8277777777777778
+	Number of connected components: 1
+	Transivity: 0.5294117647058824
+	Fitness: -0.18496732026143786
