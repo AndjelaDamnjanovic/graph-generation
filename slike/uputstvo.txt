@@ -1,0 +1,2 @@
+U ovom direktorijumu nalaze se odgovarajuće slike koje su dobijene pokretanjem koda. Svaka slika u svom nazivu sadrži broj čvorova i veličinu populacije na osnovu kojih je generisana.
+Ukoliko je slika dobijena kao rezultat smanjenja verovatnoće za generisanje grafa, onda ona u svom nazivu sadrži i "prob", dok slike nastale pokretanjem genetskog algoritma sa povećanom verovatnoćom za mutaciju nose sufiks "mutat". Bonus primeri su obeleženi istoimeno.
