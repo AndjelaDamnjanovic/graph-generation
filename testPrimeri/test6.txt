@@ -1,0 +1,1 @@
+{"num nodes": 75, "average degree": 44.7, "clustering coefficient": 0.60, "num of connected components": 1, "transitivity": 0.60}
