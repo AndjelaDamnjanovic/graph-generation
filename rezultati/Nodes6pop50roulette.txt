@@ -1,4 +1,4 @@
-Population size: 100
+Population size: 50
 
 Desired properties:
 	Num of nodes: 6
@@ -8,8 +8,8 @@ Desired properties:
 	Num of connected components: 1
 
 Results:
-	Node degrees: [(0, 3), (1, 4), (2, 4), (3, 3), (4, 5), (5, 1)]
-	Average clustering coefficient: 0.6944444444444445
+	Node degrees: [(0, 4), (1, 4), (2, 3), (3, 2), (4, 5), (5, 4)]
+	Average clustering coefficient: 0.8222222222222221
 	Number of connected components: 1
 	Transivity: 0.75
-	Fitness: -0.005622222222222093
+	Fitness: -0.12895555555555546

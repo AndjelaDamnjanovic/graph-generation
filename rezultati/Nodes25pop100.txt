@@ -1,13 +1,15 @@
 Population size: 100
+
 Desired properties:
 	Num of nodes: 25
 	Average degree: 2.8
 	Transitivity: 0.12
 	Clustering coefficient: 0.13
 	Num of connected components: 4
+
 Results:
-	Node degrees: [(0, 12), (1, 14), (2, 9), (3, 9), (4, 13), (5, 14), (6, 9), (7, 10), (8, 14), (9, 8), (10, 10), (11, 9), (12, 9), (13, 8), (14, 12), (15, 9), (16, 8), (17, 11), (18, 8), (19, 7), (20, 9), (21, 8), (22, 13), (23, 6), (24, 9)]
-	Average clustering coefficient: 0.4011490731490733
+	Node degrees: [(0, 4), (1, 8), (2, 7), (3, 5), (4, 6), (5, 9), (6, 7), (7, 10), (8, 8), (9, 8), (10, 9), (11, 9), (12, 9), (13, 9), (14, 8), (15, 7), (16, 9), (17, 7), (18, 9), (19, 4), (20, 8), (21, 12), (22, 8), (23, 9), (24, 5)]
+	Average clustering coefficient: 0.2105483405483406
 	Number of connected components: 1
-	Transivity: 0.38974358974358975
-	Fitness: -1.2832926628926629
+	Transivity: 0.22349570200573066
+	Fitness: -0.8832440425540713

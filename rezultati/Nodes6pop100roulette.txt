@@ -8,8 +8,8 @@ Desired properties:
 	Num of connected components: 1
 
 Results:
-	Node degrees: [(0, 3), (1, 4), (2, 4), (3, 3), (4, 5), (5, 1)]
-	Average clustering coefficient: 0.6944444444444445
+	Node degrees: [(0, 4), (1, 2), (2, 2), (3, 2), (4, 3), (5, 1)]
+	Average clustering coefficient: 0.611111111111111
 	Number of connected components: 1
-	Transivity: 0.75
-	Fitness: -0.005622222222222093
+	Transivity: 0.5
+	Fitness: -0.35882222222222226
